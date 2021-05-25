@@ -1,0 +1,623 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch DemoBoxWeight",
+            "request": "launch",
+            "mainClass": "Inheritance.DemoBoxWeight",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Access",
+            "request": "launch",
+            "mainClass": "Inheritance.Access",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleInheritance",
+            "request": "launch",
+            "mainClass": "Inheritance.SimpleInheritance",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CommandLine",
+            "request": "launch",
+            "mainClass": "advancedClassAndMethod.CommandLine",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringDemo",
+            "request": "launch",
+            "mainClass": "advancedClassAndMethod.StringDemo",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch InnerClassDemo",
+            "request": "launch",
+            "mainClass": "advancedClassAndMethod.InnerClassDemo",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Length",
+            "request": "launch",
+            "mainClass": "advancedClassAndMethod.Length",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticByName",
+            "request": "launch",
+            "mainClass": "advancedClassAndMethod.StaticByName",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch UseStatic",
+            "request": "launch",
+            "mainClass": "advancedClassAndMethod.UseStatic",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch AccessTest",
+            "request": "launch",
+            "mainClass": "advancedClassAndMethod.AccessTest",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion2",
+            "request": "launch",
+            "mainClass": "advancedClassAndMethod.Recursion2",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion",
+            "request": "launch",
+            "mainClass": "advancedClassAndMethod.Recursion",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch RetOb",
+            "request": "launch",
+            "mainClass": "advancedClassAndMethod.RetOb",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CallByRef",
+            "request": "launch",
+            "mainClass": "advancedClassAndMethod.CallByRef",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CallByValue",
+            "request": "launch",
+            "mainClass": "advancedClassAndMethod.CallByValue",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverloadCons2",
+            "request": "launch",
+            "mainClass": "advancedClassAndMethod.OverloadCons2",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PassOb",
+            "request": "launch",
+            "mainClass": "advancedClassAndMethod.PassOb",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverloadCons",
+            "request": "launch",
+            "mainClass": "advancedClassAndMethod.OverloadCons",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Overload2",
+            "request": "launch",
+            "mainClass": "advancedClassAndMethod.Overload2",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Overload",
+            "request": "launch",
+            "mainClass": "advancedClassAndMethod.Overload",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestStack",
+            "request": "launch",
+            "mainClass": "Class.TestStack",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoxDemo7",
+            "request": "launch",
+            "mainClass": "Class.BoxDemo7",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoxDemo6",
+            "request": "launch",
+            "mainClass": "Class.BoxDemo6",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoxDemo5",
+            "request": "launch",
+            "mainClass": "Class.BoxDemo5",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoxDemo4",
+            "request": "launch",
+            "mainClass": "Class.BoxDemo4",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoxDemo3",
+            "request": "launch",
+            "mainClass": "Class.BoxDemo3",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoxDemo2",
+            "request": "launch",
+            "mainClass": "Class.BoxDemo2",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoxDemo",
+            "request": "launch",
+            "mainClass": "Class.BoxDemo",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Return",
+            "request": "launch",
+            "mainClass": "Control.Return",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch AutoArray",
+            "request": "launch",
+            "mainClass": "AutoArray",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Average",
+            "request": "launch",
+            "mainClass": "Average",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BasicMath",
+            "request": "launch",
+            "mainClass": "BasicMath",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BitLogic",
+            "request": "launch",
+            "mainClass": "BitLogic",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BlockTest",
+            "request": "launch",
+            "mainClass": "BlockTest",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoolTest",
+            "request": "launch",
+            "mainClass": "BoolTest",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ByteShift",
+            "request": "launch",
+            "mainClass": "ByteShift",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CharDemo",
+            "request": "launch",
+            "mainClass": "CharDemo",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CharDemo2",
+            "request": "launch",
+            "mainClass": "CharDemo2",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Break",
+            "request": "launch",
+            "mainClass": "Control.Break",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreakErr",
+            "request": "launch",
+            "mainClass": "Control.BreakErr",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreakLoop",
+            "request": "launch",
+            "mainClass": "Control.BreakLoop",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreakLoop2",
+            "request": "launch",
+            "mainClass": "Control.BreakLoop2",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreakLoop3",
+            "request": "launch",
+            "mainClass": "Control.BreakLoop3",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreakLoop4",
+            "request": "launch",
+            "mainClass": "Control.BreakLoop4",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comma",
+            "request": "launch",
+            "mainClass": "Control.Comma",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Continue",
+            "request": "launch",
+            "mainClass": "Control.Continue",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContinueLabel",
+            "request": "launch",
+            "mainClass": "Control.ContinueLabel",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoWhile",
+            "request": "launch",
+            "mainClass": "Control.DoWhile",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindPrime",
+            "request": "launch",
+            "mainClass": "Control.FindPrime",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForTick",
+            "request": "launch",
+            "mainClass": "Control.ForTick",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForVar",
+            "request": "launch",
+            "mainClass": "Control.ForVar",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfElse",
+            "request": "launch",
+            "mainClass": "Control.IfElse",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MissingBreak",
+            "request": "launch",
+            "mainClass": "Control.MissingBreak",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nested",
+            "request": "launch",
+            "mainClass": "Control.Nested",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch NoBody",
+            "request": "launch",
+            "mainClass": "Control.NoBody",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample",
+            "request": "launch",
+            "mainClass": "Control.Sample",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch SampleSwitch",
+            "request": "launch",
+            "mainClass": "Control.SampleSwitch",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Switch",
+            "request": "launch",
+            "mainClass": "Control.Switch",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TODO_Menu",
+            "request": "launch",
+            "mainClass": "Control.TODO_Menu",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch While",
+            "request": "launch",
+            "mainClass": "Control.While",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conversion",
+            "request": "launch",
+            "mainClass": "Conversion",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch DynInit",
+            "request": "launch",
+            "mainClass": "DynInit",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example",
+            "request": "launch",
+            "mainClass": "Example",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example2",
+            "request": "launch",
+            "mainClass": "Example2",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForTest",
+            "request": "launch",
+            "mainClass": "ForTest",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch HexByte",
+            "request": "launch",
+            "mainClass": "HexByte",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfElse(1)",
+            "request": "launch",
+            "mainClass": "IfElse",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfSample",
+            "request": "launch",
+            "mainClass": "IfSample",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch IncDec",
+            "request": "launch",
+            "mainClass": "IncDec",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch LifeTime",
+            "request": "launch",
+            "mainClass": "LifeTime",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Light",
+            "request": "launch",
+            "mainClass": "Light",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matrix",
+            "request": "launch",
+            "mainClass": "Matrix",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Modulus",
+            "request": "launch",
+            "mainClass": "Modulus",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultByTwo",
+            "request": "launch",
+            "mainClass": "MultByTwo",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch OpEquals",
+            "request": "launch",
+            "mainClass": "OpEquals",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoolLogic",
+            "request": "launch",
+            "mainClass": "Operator.BoolLogic",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ByteUShift",
+            "request": "launch",
+            "mainClass": "Operator.ByteUShift",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch OpBitEquals",
+            "request": "launch",
+            "mainClass": "Operator.OpBitEquals",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ternary",
+            "request": "launch",
+            "mainClass": "Operator.Ternary",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Promote",
+            "request": "launch",
+            "mainClass": "Promote",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Scope",
+            "request": "launch",
+            "mainClass": "Scope",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScopeErr",
+            "request": "launch",
+            "mainClass": "ScopeErr",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoDAgain",
+            "request": "launch",
+            "mainClass": "TwoDAgain",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoDArray",
+            "request": "launch",
+            "mainClass": "TwoDArray",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch threeDMatrix",
+            "request": "launch",
+            "mainClass": "threeDMatrix",
+            "projectName": "Java-learning_3a0a1bf5"
+        }
+    ]
+}

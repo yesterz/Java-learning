@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AccountWithoutSync",
+            "request": "launch",
+            "mainClass": "IntroJavaProgramming8e.MultithreadedProgramming.AccountWithoutSync",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TaskThreadDemo",
+            "request": "launch",
+            "mainClass": "IntroJavaProgramming8e.MultithreadedProgramming.TaskThreadDemo",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileDemo",
+            "request": "launch",
+            "mainClass": "FileDemo",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dispatch",
+            "request": "launch",
+            "mainClass": "Inheritance.Dispatch",
+            "projectName": "Java-learning_3a0a1bf5"
+        },
+        {
+            "type": "java",
             "name": "Launch DemoBoxWeight",
             "request": "launch",
             "mainClass": "Inheritance.DemoBoxWeight",
